@@ -1,5 +1,5 @@
 # on-step-clothing2.0
-Revamp of on step clothing. This is a boilerplate starter which will house different backend methods and even serverless approaches.
+Revamp of on step clothing. This is a quick starter which will house different backend methods and even serverless approaches.
 
 # Reason behind
 
@@ -12,7 +12,7 @@ Some functional programming as it doesn't solve every problem. Some actual algor
 
 ## Features
 
-This ecommerce platform, which is what it is, will include some extra side things such as helpers in different languages (even though lisp is the actual only language, change my mind), structure and so on. I will try to add documentation for everything and break up code to make it easier to read while following logical security standards from OWASP to other security researcher's perspectives.
+This quickstart setup, which is what it is, will include some extra side things such as helpers in different languages (even though lisp is the actual only language, change my mind), structure and so on. I will try to add documentation for everything and break up code to make it easier to read while following logical security standards from OWASP to other security researcher's perspectives.
 
 ## Gradual Building
 This project isn't done in a day, but in sprints. So certain things will be added, project will be created and so on.
