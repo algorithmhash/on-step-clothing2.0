@@ -12,7 +12,7 @@ Some functional programming as it doesn't solve every problem. Some actual algor
 
 ## Features
 
-These site, which is what it is, will include some extra side things such as helpers in different languages (even though lisp is the actual only language, change my mind), structure and so on. I will try to add documentation for everything and breaking up code to make it easier to read while following logical security standards from OWASP to other security researcher's perspectives.
+This ecommerce platform, which is what it is, will include some extra side things such as helpers in different languages (even though lisp is the actual only language, change my mind), structure and so on. I will try to add documentation for everything and break up code to make it easier to read while following logical security standards from OWASP to other security researcher's perspectives.
 
 ## Gradual Building
 This project isn't done in a day, but in sprints. So certain things will be added, project will be created and so on.
